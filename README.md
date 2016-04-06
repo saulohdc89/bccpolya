@@ -18,7 +18,6 @@ O erro da aproximação é dado por E = |(bK)2 - n|. Se o valor absoluto da dife
 
 #Logica em português estruturado
 ```
-REAL
 INICIO
 REAL n
 CARACTER s = 's'
